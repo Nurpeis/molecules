@@ -126,3 +126,11 @@ video.frame-media_left {
 .soundbutton.paused {
 	opacity: 0.25;
 }
+a {
+	color: #fff;
+	text-decoration: none;
+	cursor: pointer;
+}
+.pointer-events {
+	pointer-events: none;
+}
